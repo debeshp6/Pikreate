@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Germania+One&family=Rajdhani:wght@500&family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Germania+One&family=Radio+Canada:ital,wght@0,300..700;1,300..700&family=Rajdhani:wght@500&family=RocknRoll+One&display=swap');
+
+* {
+    box-sizing: border-box;
+    background-color: white;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin-bottom: 60px;
+}
+
+.container {
+    /* display: flex;
+  width: 30%;
+  height: 250px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    gap: 22px;
+}
+
+.container>img {
+    width: 30%;
+    height: 30%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 4px;
+    transition: all ease 0.5s;
+}
+
+
+.container>img:hover {
+    width: 32%;
+    height: 32%;
+    scale: 1.1;
+}
+
+.about {
+    margin-top: 130px;
+}
+
+.about>h1 {
+    font-size: 30px;
+    padding-left: 20px;
+    color: black;
+    padding-bottom: 0;
+    text-align: center;
+    font-family: "Rajdhani", sans-serif;
+}
+
+.about>p {
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: red;
+    font-family: "Radio Canada", sans-serif;
+}
+
+.line {
+    margin-left: 40%;
+    margin-right: 40%;
+    align-items: center;
+    margin-top: -20px;
+}
