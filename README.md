@@ -2,11 +2,11 @@
 Welcome to Pikreate, a random image generator crafted with HTML, CSS, and JavaScript. Immerse yourself in a world of creativity where every reload unveils new visual delights for your inspiration. Pikreate aims to foster your creative journey by offering a seamless experience of exploration and discovery.
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](https://github.com/debeshp6/Pikreate/new/main?filename=README.md#features)
-- [Live Preview](https://github.com/debeshp6/Pikreate/new/main?filename=README.md#live-preview)
-- [Getting Started](https://github.com/debeshp6/Pikreate/new/main?filename=README.md#getting-started)
-- [Contribution](https://github.com/debeshp6/Pikreate/new/main?filename=README.md#contribution)
-- [Contact Me](https://github.com/debeshp6/Pikreate/new/main?filename=README.md#contact-me)
+- [Features](#features)
+- [Live Preview](#live-preview)
+- [Getting Started](#getting-started)
+- [Contribution](#contribution)
+- [Contact Me](#contact-me)
 ## Introduction
 Pikreate is more than just a random image generator—it's a gateway to inspiration and creativity. With Pikreate, you can spark your imagination and explore the vast array of images it generates. Whether you're seeking artistic inspiration or simply looking for visually stunning content, Pikreate has something for everyone. The about section provides a brief overview of the website's purpose and functionality, giving users insight into what Pikreate has to offer.
 ## Features
