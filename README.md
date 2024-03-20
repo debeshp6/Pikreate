@@ -51,4 +51,10 @@ Have questions, feedback, or suggestions? I'd love to hear from you! Feel free t
 
 Thank you for exploring Pikreate! Let your imagination soar as you embark on a journey of creativity and discovery.
 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:debeshp6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debesh-paul-4254511bb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/debesh66.official/)
+
+Happy Coding!
+
 Happy Coding!
