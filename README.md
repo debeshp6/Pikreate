@@ -56,5 +56,3 @@ Thank you for exploring Pikreate! Let your imagination soar as you embark on a j
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/debesh66.official/)
 
 Happy Coding!
-
-Happy Coding!
